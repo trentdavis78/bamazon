@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/trentdavis78/bamazon/issues"
   },
-  "homepage": "https://github.com/trentdavis78/bamazon#readme"
+  "homepage": "https://github.com/trentdavis78/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "dotenv": "^7.0.0",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0",
+    "table": "^5.2.3"
+  }
 }
