@@ -1,7 +1,7 @@
 # Bamazon
 
 ## Customer 
-<img src="images/customer.jpg">
+<img src="images/customer1.jpg">
 
 ## Manager
-<img src="images/manager.jpg">
+<img src="images/manager1.jpg">
